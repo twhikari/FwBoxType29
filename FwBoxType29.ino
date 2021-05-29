@@ -20,7 +20,7 @@
 #include <BH1750.h> // Light Sensor (BH1750)
 
 #define DEVICE_TYPE 29
-#define FIRMWARE_VERSION "1.0.2"
+#define FIRMWARE_VERSION "1.0.3"
 
 #define ANALOG_VALUE_DEBOUNCING 8
 
